@@ -1,0 +1,10 @@
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\bin\Debug\DesConsole.exe.config
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\bin\Debug\DesConsole.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\bin\Debug\DesConsole.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\bin\Debug\DES.dll
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\bin\Debug\DES.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\obj\Debug\DesConsole.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\obj\Debug\DesConsole.csproj.CoreCompileInputs.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\obj\Debug\DesConsole.csproj.CopyComplete
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\obj\Debug\DesConsole.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DesConsole\obj\Debug\DesConsole.pdb

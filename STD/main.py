@@ -1,0 +1,16 @@
+import cipher
+
+if __name__ == '__main__':
+    text1 = "B194BAC80A08F53B366D008E584A5DE4"
+    key1 = "E9DEE72C8F0C0FA62DDB49F46F73964706075316ED247A3739CBA38303A98BF6"
+    text = "B194BAC80A08F53B366D008E584A5DE48504FA9D1BB6C7AC252E72C202FDCE0D5BE3D61217B96181FE6786AD716B890"
+
+    key2 = key1
+    text2 =""
+
+    key2 = ""
+    text2 =""
+
+    key2 = ""
+    text2 =""
+    cipher.solve(key1, text)

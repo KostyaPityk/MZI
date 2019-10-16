@@ -1,0 +1,9 @@
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\bin\Debug\netstandard2.0\DES.deps.json
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\bin\Debug\netstandard2.0\DES.dll
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\bin\Debug\netstandard2.0\DES.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.csproj.CoreCompileInputs.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.AssemblyInfoInputs.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.AssemblyInfo.cs
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.dll
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\DES\DES\obj\Debug\netstandard2.0\DES.pdb
