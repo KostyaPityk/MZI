@@ -1,0 +1,8 @@
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\bin\Debug\RSA.exe.config
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\bin\Debug\RSA.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\bin\Debug\RSA.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\obj\Debug\RSA.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\obj\Debug\RSA.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\obj\Debug\RSA.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\RSA\RSA\obj\Debug\RSA.csproj.CopyComplete
