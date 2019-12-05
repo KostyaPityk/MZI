@@ -1,0 +1,6 @@
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\bin\Debug\GOST.exe.config
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\bin\Debug\GOST.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\bin\Debug\GOST.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\obj\Debug\GOST.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\obj\Debug\GOST.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\GOST\GOST\obj\Debug\GOST.pdb

@@ -1,0 +1,6 @@
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\bin\Debug\JPEG.exe.config
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\bin\Debug\JPEG.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\bin\Debug\JPEG.pdb
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\obj\Debug\JPEG.csprojAssemblyReference.cache
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\obj\Debug\JPEG.exe
+C:\Users\riki2\OneDrive\Документы\University\7 СЕМЕСТР\МЗИ\MZI\JPEG\JPEG\obj\Debug\JPEG.pdb
